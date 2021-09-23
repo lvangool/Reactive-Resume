@@ -1,0 +1,4 @@
+prepress:
+  configuration:
+    dependencies:
+      linux: "libvips-dev"
